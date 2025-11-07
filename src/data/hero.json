@@ -1,0 +1,19 @@
+{
+  "image": "/fotos/12-09-2025/pledge.jpeg",
+  "imageAlt": "Avonturiers Gilde Amersfoort event",
+  "title": "Elke maand een unieke oneshot!",
+  "subtitle": "Eerstvolgende is 21 december 2025",
+  "description": "Wil jij er ook bij zijn? Als speler of als DM?",
+  "buttons": [
+    {
+      "text": "Button",
+      "link": "#",
+      "variant": "primary"
+    },
+    {
+      "text": "Button",
+      "link": "#",
+      "variant": "secondary"
+    }
+  ]
+}

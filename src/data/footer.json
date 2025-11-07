@@ -1,0 +1,14 @@
+{
+  "social": [
+    {
+      "name": "Facebook",
+      "url": "#",
+      "icon": "facebook"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/avonturiersgildeamersfoort/",
+      "icon": "instagram"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "global": {
+    "site": {
+      "name": "Avonturiers Gilde Amersfoort",
+      "logo": "/AGA-Logo.png",
+      "url": "https://www.avonturiersgildeamersfoort.nl"
+    }
+  },
+  "components": {
+    "HeaderComponent": {
+      "button": {
+        "text": "Button",
+        "link": "#"
+      }
+    },
+    "HeroComponent": {
+      "image": "/fotos/12-09-2025/pledge.jpeg",
+      "imageAlt": "Avonturiers Gilde Amersfoort event",
+      "title": "Elke maand een unieke oneshot!",
+      "subtitle": "Eerstvolgende is 21 december 2025",
+      "description": "Wil jij er ook bij zijn? Als speler of als DM?",
+      "buttons": [
+        {
+          "text": "Button",
+          "link": "#",
+          "variant": "primary"
+        },
+        {
+          "text": "Button",
+          "link": "#",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "GalleryComponent": {
+      "title": "12 Oktober 2025",
+      "description": "12 oktober zijn we voor het eerst met z'n allen op avontuur gegaan. Met 8 unieke one-shots en 40 avonturiers was het een geslaagde dag!",
+      "images": [
+        {
+          "src": "/fotos/12-09-2025/dm-5.jpeg",
+          "alt": "DM in actie",
+          "size": "small"
+        },
+        {
+          "src": "/fotos/12-09-2025/tafel-closeup-1.jpeg",
+          "alt": "Tafel closeup",
+          "size": "small"
+        },
+        {
+          "src": "/fotos/12-09-2025/dm-2.jpeg",
+          "alt": "DM en spelers",
+          "size": "large"
+        },
+        {
+          "src": "/fotos/12-09-2025/dm-6.jpeg",
+          "alt": "DM met map",
+          "size": "large"
+        },
+        {
+          "src": "/fotos/12-09-2025/dm-3.jpeg",
+          "alt": "DM verhaal vertellen",
+          "size": "small"
+        },
+        {
+          "src": "/fotos/12-09-2025/tafel-closeup-2.jpeg",
+          "alt": "Tafel met spelers",
+          "size": "small"
+        }
+      ]
+    },
+    "FooterComponent": {
+      "social": [
+        {
+          "name": "Facebook",
+          "url": "#",
+          "icon": "facebook"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/avonturiersgildeamersfoort/",
+          "icon": "instagram"
+        }
+      ]
+    }
+  }
+}
